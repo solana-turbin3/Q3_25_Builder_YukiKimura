@@ -1,0 +1,6 @@
+[submodule "pre-ts-airdrop"]
+	path = pre-ts-airdrop
+	url = https://github.com/yukikm/ts-nft-airdrop.git
+[submodule "pre-rust-airdrop"]
+	path = pre-rust-airdrop
+	url = https://github.com/yukikm/rust-nft-airdrop.git
