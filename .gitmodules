@@ -4,3 +4,6 @@
 [submodule "pre-rust-airdrop"]
 	path = pre-rust-airdrop
 	url = https://github.com/yukikm/rust-nft-airdrop.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/yukikm/solana-starter.git
