@@ -10,3 +10,6 @@
 [submodule "vault"]
 	path = vault
 	url = https://github.com/yukikm/solana-vault.git
+[submodule "escrow"]
+	path = escrow
+	url = https://github.com/yukikm/solana-escrow.git
