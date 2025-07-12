@@ -13,3 +13,6 @@
 [submodule "escrow"]
 	path = escrow
 	url = https://github.com/yukikm/solana-escrow.git
+[submodule "amm"]
+	path = amm
+	url = https://github.com/yukikm/anchor-amm.git
