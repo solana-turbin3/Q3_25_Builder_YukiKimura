@@ -19,3 +19,6 @@
 [submodule "nft-staking"]
 	path = nft-staking
 	url = https://github.com/yukikm/anchor-nft-staking.git
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/yukikm/anchor-marketplace.git
