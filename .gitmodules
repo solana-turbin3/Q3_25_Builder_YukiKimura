@@ -16,3 +16,6 @@
 [submodule "amm"]
 	path = amm
 	url = https://github.com/yukikm/anchor-amm.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = https://github.com/yukikm/anchor-nft-staking.git
