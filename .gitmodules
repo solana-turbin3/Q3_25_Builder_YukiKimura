@@ -22,3 +22,6 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/yukikm/anchor-marketplace.git
+[submodule "dice"]
+	path = dice
+	url = https://github.com/yukikm/anchor-dice.git
