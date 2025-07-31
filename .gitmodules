@@ -25,3 +25,6 @@
 [submodule "dice"]
 	path = dice
 	url = https://github.com/yukikm/anchor-dice.git
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/yukikm/Subly.git
