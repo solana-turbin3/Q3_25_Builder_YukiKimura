@@ -28,3 +28,6 @@
 [submodule "capstone"]
 	path = capstone
 	url = https://github.com/yukikm/Subly.git
+[submodule "capstone-only-anchor-program"]
+	path = capstone-only-anchor-program
+	url = https://github.com/yukikm/anchor-subly-program.git
